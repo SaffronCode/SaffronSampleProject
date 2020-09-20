@@ -56,6 +56,10 @@
 				<fa>هیچ موردی یافت نشد</fa>
 			</no_matches_found>
 		<!--Global texts↑-->
+		<retry_lable>
+			<fa>دوباره تلاش کنید</fa>
+			<en>Try again</en>
+		</retry_lable>
 		
 	</texts>
 	
